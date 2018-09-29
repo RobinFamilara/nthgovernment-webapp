@@ -23,7 +23,8 @@ Screenshots 2:
 
 Mobile App Screen 1 :
 
-![alt text](https://preview.ibb.co/jNxh49/img_20180929_111434.jpg| width=40)
+<img src="https://preview.ibb.co/jNxh49/img_20180929_111434.jpg" width="30" height="30">
+
 
 
 ## Table of Contents
