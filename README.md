@@ -39,7 +39,7 @@ Screenshots 2:
 
 Mobile App Screen 1 :
 
-<img src="https://preview.ibb.co/jNxh49/img_20180929_111434.jpg" width="100" height="100">
+<img src="https://preview.ibb.co/jNxh49/img_20180929_111434.jpg" width="300" height="600">
 
 
 
