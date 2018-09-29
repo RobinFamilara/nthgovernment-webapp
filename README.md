@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Consumer-Rescuer mobile app repository link:
+https://github.com/notodisaster123/nthconsumer--rescure-app
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+Code to upload large datasets such as list of all evacuation centers
+https://github.com/SHi-ON/CloudBlower
 
 ## Table of Contents
 
