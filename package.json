@@ -1,0 +1,35 @@
+{
+  "name": "nth-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.1.1",
+    "awesome-react-list": "0.0.2",
+    "classnames": "^2.2.6",
+    "font-awesome": "^4.7.0",
+    "google-map-react": "^1.0.6",
+    "immutable": "^3.8.2",
+    "material-ui": "^0.20.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.1",
+    "react-addons": "^0.9.1-deprecated",
+    "react-cardstack": "^1.1.0",
+    "react-controllables": "^0.6.0",
+    "react-dom": "^16.5.1",
+    "react-fontawesome": "^1.6.1",
+    "react-list-view": "^1.0.0",
+    "react-pure-render": "^1.0.2",
+    "react-scripts": "1.1.5",
+    "react-scrollable-list": "^1.2.0",
+    "react-scrollable-list-view": "^2.0.1",
+    "react-social-media-icons": "^1.0.3",
+    "react-tabs": "^2.3.0",
+    "socket.io-client": "^2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

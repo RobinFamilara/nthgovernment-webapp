@@ -1,0 +1,85 @@
+@keyframes border{
+  0% {
+    box-shadow: 60px -60px 0 2px #333, -60px -60px 0 2px #333, -60px 60px 0 2px #333, 60px 60px 0 2px #333, 0 0 0 2px #E94E3D;
+  }
+  25% {
+    box-shadow: 0 -125px 0 2px #333, -60px -60px 0 2px #333, -60px 60px 0 2px #333, 60px 60px 0 2px #333, 0 0 0 2px #333;
+  }
+  50% {
+    box-shadow: 0 -125px 0 2px #333, -125px 0px 0 2px #333, -60px 60px 0 2px #333, 60px 60px 0 2px #333, 0 0 0 2px #333;
+  }
+  75% {
+    box-shadow: 0 -125px 0 2px #333, -125px 0px 0 2px #333, 0px 125px 0 2px #333, 60px 60px 0 2px #333, 0 0 0 2px #333;
+  }
+  100% {
+    box-shadow: 0 -125px 0 2px #333, -125px 0px 0 2px #333, 0px 125px 0 2px #333, 120px 40px 0 2px #333, 0 0 0 2px #333;
+  }
+}
+
+
+.simplelist-wrapper {
+  width: 400px;
+  border: 1px solid #cccccc;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+
+  .list-header {
+    padding: 20px 15px;
+    display: flex;
+    align-items: center;
+
+    .list-title {
+      flex: 1 1;
+    }
+
+    .list-action {
+      button {
+        background-color: #2db52d;
+        color: #fff;
+        border: none;
+        padding: 5px 15px;
+      }
+    }
+  }
+
+  .list-item {
+    padding: 10px;
+    border-top: 1px solid #cccccc;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    .list-icon {
+      margin-right: 10px;
+
+      img {
+        width: 25px;
+        border: 1px solid #fff;
+        &:hover {
+          animation: border .4s ease 1 forwards;
+        }
+
+      }
+    }
+    .list-content {
+      flex: 1 1;
+      .title-line {
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+    }
+
+    .list-action {
+      button {
+        border: none;
+        background: transparent;
+        font-size: 30px;
+        border-radius: 50%;
+        cursor: pointer;
+        outline: none;
+        &:hover {
+          background: #cccccc;
+        }
+      }
+    }
+  }
+}

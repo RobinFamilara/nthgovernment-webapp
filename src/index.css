@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.tab-panel{
+  padding: 10px;
+  text-align: left;
+}
+.name{
+  margin: 10px 0;
+  text-align: left;
+  float: left;
+}
+.safe-icon{
+  float: right;
+  margin: 0;
+}
+.safe-icon span{
+  margin: 0;
+  padding-left: 10px;
+}
+.address{
+  clear: both;
+  padding-top:10px;
+  font-size: 13px;
+  margin: 0;
+
+}
