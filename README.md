@@ -14,12 +14,16 @@ NoToDisaster Website:
 http://notodisaster.gear.host/
 https://notodisaster.mybluemix.net/
 
-Screenshots:
+Screenshots 1:
 ![alt text](https://image.ibb.co/gaouHU/image_8.png )
+
+Screenshots 2:
+![alt text](https://image.ibb.co/ejURxU/image_1.png )
+
 
 Mobile App Screen 1 :
 
-![alt text](https://preview.ibb.co/jNxh49/img_20180929_111434.jpg)
+![alt text](https://preview.ibb.co/jNxh49/img_20180929_111434.jpg| width=40)
 
 
 ## Table of Contents
