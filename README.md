@@ -1,5 +1,20 @@
 Multilayer information and aide to mitigate disaster
 
+Our “nth-Aide Apps” unlimited solution is our answer to IBM call:
+Innovation to help save people continuously and mitigate impact Before, During and after the disaster
+
+1. Government App 
+
+The Government needs to Continuously Monitor and Notify emergency alert for any upcoming danger of Disaster  (To People and Rescue Teams). We developed a web app to monitor the map with geolocations of all evacuation centers. It is also linked with social media and live news feeds.
+
+2. Rescuer App
+
+This innovation enables the rescuers to receive notification of instruction and assignment from Government. This also allow them to find people to be rescued faster, to update Queue ID based on the area criticality as well as noting those who have been rescued.
+
+3. Consumer App
+
+People in the area projected to be hit by disaster, before , during and after any impact will be able to send notification for help. Enable the Apps on their mobile devices to search for the nearets rescue teams and evacuation centers. They can even  download it for offline reference. It is the App with list of Evacuation centers and Rescue groups distributed in the area. 
+
 Consumer-Rescuer mobile app repository link:
 https://github.com/notodisaster123/nthconsumer--rescure-app
 
@@ -7,10 +22,8 @@ Code to upload large datasets such as list of all evacuation centers
 https://github.com/SHi-ON/CloudBlower
 
 Videos:
-Goverment App Video:
 https://youtu.be/B1SfH9QVRi4
-
-Demo Video:
+https://youtu.be/DPMp4Cl6xbs
 https://youtu.be/FHI90UQvTrI
 
 NoToDisaster Website:
@@ -26,7 +39,7 @@ Screenshots 2:
 
 Mobile App Screen 1 :
 
-<img src="https://preview.ibb.co/jNxh49/img_20180929_111434.jpg" width="300" height="500">
+<img src="https://preview.ibb.co/jNxh49/img_20180929_111434.jpg" width="100" height="100">
 
 
 
