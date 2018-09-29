@@ -1,16 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Multilayer information and aide to mitigate disaster
+
 Consumer-Rescuer mobile app repository link:
 https://github.com/notodisaster123/nthconsumer--rescure-app
 
 Code to upload large datasets such as list of all evacuation centers
 https://github.com/SHi-ON/CloudBlower
 
+Videos:
+https://youtu.be/B1SfH9QVRi4
+https://youtu.be/FHI90UQvTrI
+
+NoToDisaster Website:
+http://notodisaster.gear.host/
+https://notodisaster.mybluemix.net/
+
 Screenshots:
 ![alt text](https://image.ibb.co/gaouHU/image_8.png )
-
-
-Screenshots:
-![alt text](https://image.ibb.co/ejURxU/image_1.png )
 
 ## Table of Contents
 
